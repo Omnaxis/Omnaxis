@@ -37,12 +37,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omnaxis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src=["https://github-readme-stats.vercel.app/api?username=Omnaxis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"](https://github-readme-stats-shashwat-s-projects1.vercel.app/api?username=Omnaxis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117) />
 </p>
 
 <p align="center">
   <a href="https://github.com/Omnaxis">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnaxis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src=["https://github-readme-stats.vercel.app/api/top-langs/?username=Omnaxis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"](https://github-readme-stats-shashwat-s-projects1.vercel.app/api/top-langs/?username=Omnaxis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117) />
   </a>
 </p>
 
