@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on a pyhton project, more updates comming soon.
+- 🔭 I’m currently working on a python project, more updates coming soon.
 - 🌱 I’m heavily focused on mastering **Data Structures & Algorithms (DSA)** in Python.
 - 🤝 I thrive in fast-paced environments and am always open to teaming up for competitive hackathons or exploring new tech advancements.
 - ⚡ Fun fact: I am a firm believer in the magic of `import antigravity`.
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Omnaxis">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnaxis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </p>
